@@ -109,4 +109,3 @@ This model should not be deployed in a fully automated decision pipeline without
 
 - Original dataset: `Resources/lending_data.csv`
 - Model development notebook: `Credit_Risk/credit_risk_model.ipynb`
-- Documentation visuals: `Credit_Risk/Screenshots/`
